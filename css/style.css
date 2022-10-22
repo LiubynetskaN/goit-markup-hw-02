@@ -15,14 +15,15 @@
   font-family: "Roboto", sans-serif;
 }
 
-
 /* Header styles */
 .header {
   background:var(--header-background);
 }
+
 .header-nav-items .link.current{
   color: var(--hover-color);
 }
+
 .link {
   text-decoration: none;
 }
@@ -119,6 +120,7 @@
 .hero-button:focus {
   background: #188ce8;
 }
+
 /* Benefits styles */
 
 .benefits-title {
